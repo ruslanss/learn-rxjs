@@ -61,7 +61,7 @@ We can instead import them like:
 import { take } from 'rxjs/operator/take';
 ```
 
-This keeps them off the `Observable` prototype and let's us call them directly:
+This keeps them off the `Observable` prototype and lets us call them directly:
 
 ```js
 import { take } from 'rxjs/operator/take';
